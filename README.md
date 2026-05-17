@@ -1,5 +1,6 @@
 # Movie-Rental-Analytics
-This is my capstone project on movie rental analytics 
+This is my capstone project on movie rental analytics.
+
 Google drive link for video presentation :- https://drive.google.com/file/d/1CASsOQ8HB6SR7Ei7ImBgnAzs9cuaRaZC/view?usp=sharing
 
 
